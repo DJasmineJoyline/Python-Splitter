@@ -15,12 +15,12 @@ pip3 install pandas </br>
  </br>
 ## Demo </br>
 1. Execute the following command in the terminal:  </br>
-    ### **Python3 split.py options Filename** </br>
+    ### **python3 split.py options Filename** </br>
       </br>
      options : CSV/JSON/XML </br>
      Filename : File that has to be splitted </br>
     </br> 
-    For ex: Python3 split.py CSV LargeFile.csv</br>
+    For ex: python3 split.py CSV LargeFile.csv</br>
     </br>
 2. The files generated are present in the current working directory.
 

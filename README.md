@@ -1,7 +1,7 @@
 # Python-Splitter
 Python Program to Split CSV,JSON and XML Files </br>
  </br>
-<h1 align="left"> Description </h2> </br>
+## Description</br>
 Split the Large Files into multiple chuncks of of 1GB files. </br>
  </br>
 # # Software Requirements </br>

@@ -2,7 +2,7 @@
 Python Program to Split CSV,JSON and XML Files </br>
  </br>
 ## Description</br>
-Split the Large Files into multiple chuncks of of 1GB files. The program takes the type and name of the file that has to be splitted through the command line.</br>
+Split the Large Files into multiple chuncks of 1GB files. The program takes the type and name of the file that has to be splitted through the command line.</br>
 And the generated files are present in the present working directory</br>
  </br>
 ## Software Requirements </br>

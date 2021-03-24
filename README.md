@@ -7,7 +7,7 @@ And the generated files are present in the present working directory</br>
  </br>
 ## Software Requirements </br>
 Ubuntu 16.04 </br>
-Editor </br>
+Text Editor </br>
  </br>
 ## Installation </br>
 sudo apt install python3-pip </br>
@@ -20,6 +20,8 @@ pip3 install pandas </br>
      options : CSV/JSON/XML </br>
      Filename : File that has to be splitted </br>
     </br> 
-2. The files generated are present in the current directory.
+    For ex: Python3 split.py CSV LargeFile.csv</br>
+    </br>
+2. The files generated are present in the current working directory.
 
 

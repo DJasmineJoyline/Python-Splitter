@@ -1,5 +1,4 @@
 # Python-Splitter
-<h1 align="center"> Python - Splitter </h1>
 Python Program to Split CSV,JSON and XML Files </br>
  </br>
 ## Description</br>

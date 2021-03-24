@@ -4,15 +4,15 @@ Python Program to Split CSV,JSON and XML Files </br>
 <h1 align="left"> Description </h2> </br>
 Split the Large Files into multiple chuncks of of 1GB files. </br>
  </br>
-## __Software Requirements__  </br>
+##__ Software Requirements__  </br>
 Ubuntu 16.04 </br>
 Editor </br>
  </br>
-## __Installation__ </br>
+##__ Installation__ </br>
 sudo apt install python3-pip </br>
 pip3 install pandas </br>
  </br>
-## __Demo__ </br>
+##__ Demo__ </br>
 1. Execute the following command in the terminal:  </br>
      Python3 split.py options Filename </br>
       </br>
